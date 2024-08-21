@@ -1,0 +1,42 @@
+<!-- docs/_sidebar.md -->
+- [Home](/)
+- **LED Panels**
+  - [AOTO](https://en.aoto.com)
+  - [Roe Visual](https://www.roevisual.com/en/)
+- **LED Processors**
+  - [Brompton](https://www.bromptontech.com/)
+- **Media Server/Stage Operation**
+  - [Assimilate LiveFX](https://www.assimilateinc.com/products/livefx/)
+  - [Amateras](https://www.orihalcon.co.jp/amateras/index_en.html)
+  - [Disguise](https://www.disguise.one/en)
+  - [Front Pictures Screenberry](https://domes.frontpictures.com/software/screenberry/)
+  - [Unreal nDisplay](https://dev.epicgames.com/documentation/en-us/unreal-engine/ndisplay-overview-for-unreal-engine)
+  - [7thSense](https://7thsense.one/)
+- **Practical Lights**
+  - [ARRI](https://www.arri.com/en/lighting/led)
+  - [Kinoflo Mimik](https://kinoflo.com/mimik/)
+  - [Sumolight](https://sumolight.com/)
+- **Camera Tracking**
+  - [nCam](https://www.ncam-tech.com/)
+  - [VIVE Mars](https://mars.vive.com/)
+  - [Mark Roberts Motion Control](https://www.mrmoco.com/)
+  - [Vicon](https://www.vicon.com)
+  - [Antilatency](https://antilatency.com/)
+  - [EZtrack Tracking Hub](https://eztrack.studio/)
+  - [VizRT freeD](https://docs.vizrt.com/tracking-hub-guide/1.0/description_of_the_freed_protocol.html)
+- **Lens Metadata**
+  - [Cooke Optics /i Technology](https://cookeoptics.com/i-technology/)
+  - [Ambient Lockit+](https://ambient.de/en/products/acn-lp-lockit-metadateninterface)
+- **MoCap**
+  - [Vicon MoCap](https://www.vicon.com)
+  - [Xsens MoCap](https://www.xsens.com/)
+  - [Faceware MoCap](https://facewaretech.com)
+  - [Move.ai MoCap](https://www.move.ai)
+- **Links**
+  - [Kartaverse](https://github.com/kartaverse)
+  - [Medium Blog](https://medium.com/@andrewhazelden)
+  - [Google Group](https://groups.google.com/g/kartaverse/)
+- **Contact**
+  - [Email](mailto:andrew@andrewhazelden.com)
+  - [GitHub](https://github.com/AndrewHazelden)
+  - [LinkedIn](https://www.linkedin.com/in/andrewhazelden/)
