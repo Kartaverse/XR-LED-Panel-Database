@@ -9,4 +9,6 @@
 
 This XR database project was inspired by the EmberlightVFX [Camera Sensor Database](https://emberlightvfx.github.io/Camera-Sensor-Database/#/).
 
+---
 
+A Kartaverse community project. (C) Copyright Andrew Hazelden 2014-2024. All rights reserved. 
