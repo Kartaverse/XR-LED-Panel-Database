@@ -2,6 +2,8 @@
 
 > Links: [EXLF Product Page](https://en.aoto.com/products/exlf-series.html)
 
+![EXLF Photo](AOTO-EXLF.jpg)
+
 ## Panel Specs
 
 | Name    | Cabinet Resolution | Pixel Pitch | Cabinet Size (Width x Height x Depth) | Refresh Rate | Brightness | Average Power |
