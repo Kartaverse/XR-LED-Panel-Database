@@ -1,12 +1,12 @@
 <!-- docs/_sidebar.md -->
 - [Home](/)
 - **LED Panels**
-  - [AOTO](https://en.aoto.com)
-    - [CV-MIP](data/CV-MIP)
-    - [AF](data/AF)
-    - [EXLF](data/EXLF)
-    - [CV](https://en.aoto.com/products/cv-series.html)
-    - [U](https://en.aoto.com/products/u-series.html)
+  - [AOTO](//)
+    - [CV-MIP](data/AOTO-CV-MIP)
+    - [AF](data/AOTO-AF)
+    - [EXLF](data/AOTO-EXLF)
+    - [CV](data/AOTO-CV)
+    - [U](data/AOTO-U)
     - [E](https://en.aoto.com/products/e-series.html)
     - [AD](https://en.aoto.com/products/ad-series.html)
   - [Roe Visual](https://www.roevisual.com/en/)
