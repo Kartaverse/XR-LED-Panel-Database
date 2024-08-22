@@ -47,6 +47,7 @@
   - [Amateras](https://www.orihalcon.co.jp/amateras/index_en.html)
   - [Disguise](https://www.disguise.one/en)
   - [Front Pictures Screenberry](https://domes.frontpictures.com/software/screenberry/)
+  - [Pixera](https://pixera.one/en/)
   - [Unreal nDisplay](https://dev.epicgames.com/documentation/en-us/unreal-engine/ndisplay-overview-for-unreal-engine)
   - [7thSense](https://7thsense.one/)
 - **Practical Lights**
