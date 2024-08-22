@@ -18,7 +18,7 @@
     - [Black Marble BM4](data/ROE-Black-Marble-BM4)
     - [Black Pearl 2V2](https://www.roevisual.com/en/products/black-pearl-2v2)
     - [Carbon Mark II](data/ROE-Carbon-Mark-2)
-    - [Carbon](https://www.roevisual.com/en/products/carbon)
+    - [Carbon](data/ROE-Carbon)
     - [Diamond](https://www.roevisual.com/en/products/diamond)
     - [Obsidian](data/ROE-Obsidian)
     - [Ruby-C](https://www.roevisual.com/en/products/ruby-c)
