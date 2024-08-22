@@ -22,7 +22,7 @@
     - [Diamond](data/ROE-Diamond)
     - [Obsidian](data/ROE-Obsidian)
     - [Ruby-C](data/ROE-Ruby-C)
-    - [Ruby](data/ROE-Ruby-C)
+    - [Ruby](data/ROE-Ruby)
 - **LED Processors**
   - Brompton
     - [Tessera S4](https://www.bromptontech.com/product/s4/)
