@@ -2,6 +2,8 @@
 
 > Links: [AD Product Page](https://en.aoto.com/products/ad-series.html)
 
+![AD Photo](AOTO-AD.png)
+
 ## Panel Specs
 
 | Name    | Cabinet Resolution | Pixel Pitch | Cabinet Size (Width x Height x Depth) | Refresh Rate | Brightness | Average Power |

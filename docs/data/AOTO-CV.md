@@ -2,6 +2,8 @@
 
 > Links: [CV Product Page](https://en.aoto.com/products/cv-series.html)
 
+![CV Photo](AOTO-CV.png)
+
 ## Panel Specs
 
 | Name    | Cabinet Resolution | Pixel Pitch | Refresh Rate | Brightness | Average Power |

@@ -2,6 +2,8 @@
 
 > Links: [U Product Page](https://en.aoto.com/products/u-series.html)
 
+![U Photo](AOTO-U.png)
+
 ## Panel Specs
 
 | Name    | Cabinet Resolution | Pixel Pitch | Cabinet Size (Width x Height x Depth) | Refresh Rate | Brightness | Average Power |

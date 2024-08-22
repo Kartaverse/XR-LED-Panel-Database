@@ -2,6 +2,8 @@
 
 > Links: [E Product Page](https://en.aoto.com/products/e-series.html)
 
+![E Photo](AOTO-E.png)
+
 ## Panel Specs
 
 | Name    | Cabinet Resolution | Pixel Pitch | Cabinet Size (Width x Height x Depth) | Refresh Rate | Brightness | Average Power |

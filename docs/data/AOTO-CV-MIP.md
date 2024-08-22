@@ -2,6 +2,8 @@
 
 > Links: [CV-MIP Product Page](https://en.aoto.com/products/cv-mip-series.html)
 
+![CV-MIP Photo](AOTO-CV-MIP.png)
+
 ## Panel Specs
 
 | Name         | Cabinet Resolution | Pixel Pitch | Cabinet Size Size (Width x Height x Depth) | Refresh Rate | Brightness | Average Power |

@@ -2,6 +2,8 @@
 
 > Links: [AF Product Page](https://en.aoto.com/products/af-series.html)
 
+![AF Photo](AOTO-AF.png)
+
 ## Panel Specs
 
 | Name    | Cabinet Resolution | Pixel Pitch | Cabinet Size (Width x Height x Depth) | Refresh Rate | Brightness | Average Power |
