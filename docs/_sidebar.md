@@ -2,9 +2,9 @@
 - [Home](/)
 - **LED Panels**
   - [AOTO](https://en.aoto.com)
-    - [CV-MIP](https://en.aoto.com/products/cv-mip-series.html)
-    - [AF](https://en.aoto.com/products/af-series.html)
-    - [EXLF](https://en.aoto.com/products/exlf-series.html)
+    - [CV-MIP](data/CV-MIP)
+    - [AF](data/AF)
+    - [EXLF](data/EXLF)
     - [CV](https://en.aoto.com/products/cv-series.html)
     - [U](https://en.aoto.com/products/u-series.html)
     - [E](https://en.aoto.com/products/e-series.html)
