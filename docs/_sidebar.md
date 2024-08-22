@@ -1,41 +1,5 @@
 <!-- docs/_sidebar.md -->
 - [Home](/)
-- **Media Server/Stage Operation**
-  - [7thSense](https://7thsense.one/)
-  - [Amateras](https://www.orihalcon.co.jp/amateras/index_en.html)
-  - [Assimilate LiveFX](https://www.assimilateinc.com/products/livefx/)
-  - [Disguise](https://www.disguise.one/en)
-  - [Front Pictures Screenberry](https://domes.frontpictures.com/software/screenberry/)
-  - [Pixera](https://pixera.one/en/)
-  - [Unreal nDisplay](https://dev.epicgames.com/documentation/en-us/unreal-engine/ndisplay-overview-for-unreal-engine)
-- **Practical Lights**
-  - [ARRI](https://www.arri.com/en/lighting/led)
-  - [Kinoflo Mimik](https://kinoflo.com/mimik/)
-  - [Sumolight](https://sumolight.com/)
-- **Camera Tracking**
-  - [Antilatency](https://antilatency.com/)
-  - [EZtrack Tracking Hub](https://eztrack.studio/)
-  - [Mark Roberts Motion Control](https://www.mrmoco.com/)
-  - [Mo-Sys](https://www.mo-sys.com/)
-  - [nCam](https://www.ncam-tech.com/)
-  - [Vicon](https://www.vicon.com)
-  - [VIVE Mars](https://mars.vive.com/)
-  - [VizRT freeD](https://docs.vizrt.com/tracking-hub-guide/1.0/description_of_the_freed_protocol.html)
-- **MoCap**
-  - [Faceware MoCap](https://facewaretech.com)
-  - [Move.ai MoCap](https://www.move.ai)
-  - [Vicon MoCap](https://www.vicon.com)
-  - [Xsens MoCap](https://www.xsens.com/)
-- **Laser Projectors**
-  - [Barco](https://www.barco.com/en)
-  - [Christie Digital](https://www.christiedigital.com/products/projectors/all-projectors/)
-  - [Panasonic](https://connect.na.panasonic.ca/)
-  - [Sony](https://www.sony.ca/en/projectors)
-- **Projector Lenses**
-  - Ultra Short Throw
-- **Lens Metadata**
-  - [Cooke Optics /i Technology](https://cookeoptics.com/i-technology/)
-  - [Ambient Lockit+](https://ambient.de/en/products/acn-lp-lockit-metadateninterface)
 - **LED Panels**
   - [AOTO](//)
     - [AD](data/AOTO-AD)
@@ -71,6 +35,42 @@
 - **Receiver Cards**
   - [Brompton](https://www.bromptontech.com/)
     - [Tessera G1](https://www.bromptontech.com/product/receiver-cards/)
+- **Practical Lights**
+  - [ARRI](https://www.arri.com/en/lighting/led)
+  - [Kinoflo Mimik](https://kinoflo.com/mimik/)
+  - [Sumolight](https://sumolight.com/)
+- **Media Server/Stage Operation**
+  - [7thSense](https://7thsense.one/)
+  - [Amateras](https://www.orihalcon.co.jp/amateras/index_en.html)
+  - [Assimilate LiveFX](https://www.assimilateinc.com/products/livefx/)
+  - [Disguise](https://www.disguise.one/en)
+  - [Front Pictures Screenberry](https://domes.frontpictures.com/software/screenberry/)
+  - [Pixera](https://pixera.one/en/)
+  - [Unreal nDisplay](https://dev.epicgames.com/documentation/en-us/unreal-engine/ndisplay-overview-for-unreal-engine)
+- **Camera Tracking**
+  - [Antilatency](https://antilatency.com/)
+  - [EZtrack Tracking Hub](https://eztrack.studio/)
+  - [Mark Roberts Motion Control](https://www.mrmoco.com/)
+  - [Mo-Sys](https://www.mo-sys.com/)
+  - [nCam](https://www.ncam-tech.com/)
+  - [Vicon](https://www.vicon.com)
+  - [VIVE Mars](https://mars.vive.com/)
+  - [VizRT freeD](https://docs.vizrt.com/tracking-hub-guide/1.0/description_of_the_freed_protocol.html)
+- **MoCap**
+  - [Faceware MoCap](https://facewaretech.com)
+  - [Move.ai MoCap](https://www.move.ai)
+  - [Vicon MoCap](https://www.vicon.com)
+  - [Xsens MoCap](https://www.xsens.com/)
+- **Laser Projectors**
+  - [Barco](https://www.barco.com/en)
+  - [Christie Digital](https://www.christiedigital.com/products/projectors/all-projectors/)
+  - [Panasonic](https://connect.na.panasonic.ca/)
+  - [Sony](https://www.sony.ca/en/projectors)
+- **Projector Lenses**
+  - Ultra Short Throw
+- **Lens Metadata**
+  - [Cooke Optics /i Technology](https://cookeoptics.com/i-technology/)
+  - [Ambient Lockit+](https://ambient.de/en/products/acn-lp-lockit-metadateninterface)
 - **Links**
   - [Kartaverse](https://github.com/kartaverse)
   - [Medium Blog](https://medium.com/@andrewhazelden)
