@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 - [Home](/)
 - **LED Panels**
-  - [AOTO](//)
+  - AOTO
     - [AD](data/AOTO-AD)
     - [AE](data/AOTO-AE)
     - [AF](data/AOTO-AF)
@@ -13,7 +13,7 @@
     - [RM](data/AOTO-RM)
     - [SW](data/AOTO-SW)
     - [U](data/AOTO-U)
-  - [Roe Visual](//)
+  - Roe Visual
     - [Black Marble BM5](data/ROE-Black-Marble-BM5)
     - [Black Marble BM4](data/ROE-Black-Marble-BM4)
     - [Black Pearl 2V2](https://www.roevisual.com/en/products/black-pearl-2v2)
@@ -24,16 +24,16 @@
     - [Ruby-C](https://www.roevisual.com/en/products/ruby-c)
     - [Ruby](https://www.roevisual.com/en/products/ruby)
 - **LED Processors**
-  - [Brompton](https://www.bromptontech.com/)
+  - Brompton
     - [Tessera S4](https://www.bromptontech.com/product/s4/)
     - [Tessera S8](https://www.bromptontech.com/product/s8/)
     - [Tessera SX40](https://www.bromptontech.com/product/sx40/)
     - [Tessera T1](https://www.bromptontech.com/product/t1/)
 - **Distribution Unit**
-  - [Brompton](https://www.bromptontech.com/)
+  - Brompton
     - [Tessera XD](https://www.bromptontech.com/product/xd/)
 - **Receiver Cards**
-  - [Brompton](https://www.bromptontech.com/)
+  - Brompton
     - [Tessera G1](https://www.bromptontech.com/product/receiver-cards/)
 - **Practical Lights**
   - [ARRI](https://www.arri.com/en/lighting/led)
@@ -67,7 +67,8 @@
   - [Panasonic](https://connect.na.panasonic.ca/)
   - [Sony](https://www.sony.ca/en/projectors)
 - **Projector Lenses**
-  - Ultra Short Throw
+  - Ultra Short Throw Lenses
+  - Wide Angle Lenses
 - **Lens Metadata**
   - [Cooke Optics /i Technology](https://cookeoptics.com/i-technology/)
   - [Ambient Lockit+](https://ambient.de/en/products/acn-lp-lockit-metadateninterface)

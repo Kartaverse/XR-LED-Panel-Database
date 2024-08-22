@@ -1,6 +1,12 @@
 # Welcome to the XR LED Panel Database
 
-> An open-source database for XR stage displays
+> An open-source database for XR stage production users
 
-This project was inspired by the [Camera Sensor Database](https://emberlightvfx.github.io/Camera-Sensor-Database/#/).
+> Search by keyword or use the menu on the left to go through all available entries.
+>
+> Enjoy!
+>
+
+This XR database project was inspired by the EmberlightVFX [Camera Sensor Database](https://emberlightvfx.github.io/Camera-Sensor-Database/#/).
+
 
