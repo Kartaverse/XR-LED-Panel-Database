@@ -8,5 +8,7 @@
 
 | Name         | Cabinet Resolution | Pixel Pitch | Cabinet Size (Width x Height x Depth) | Refresh Rate | Brightness | Average Power |
 |--------------|--------------------|-------------|---------------------------------------|--------------|------------|---------------|
-| RB-C1.9BV2   | 256 x 256 px       | 1.95 mm      | 500 mm x 500 mm x 108 mm            | 7680 Hz      | 1500 nits  | 80 Watts      |
+| RB-C1.9BV2   | 256 x 256 px       | 1.95 mm     | 500 mm x 500 mm x 108 mm              | 7680 Hz      | 1500 nits  | 80 Watts      |
+| RB-C1.9F     | 256 x 256 px       | 1.95 mm     | 500 mm x 500 mm x 108 mm              | 7680 Hz      | 1500 nits  | 70 Watts      |
+| RB-C2.6      | 192 x 192 px       | 1.95 mm     | 500 mm x 500 mm x 108 mm              | 7680 Hz      | 1500 nits  | 80 Watts      |
 
