@@ -7,8 +7,8 @@
 > Enjoy!
 >
 
-This XR database project was inspired by the EmberlightVFX [Camera Sensor Database](https://emberlightvfx.github.io/Camera-Sensor-Database/#/).
+This XR database project was inspired by the EmberlightVFX [Camera Sensor Database](https://emberlightvfx.github.io/Camera-Sensor-Database/#/) that was created by [Jacob Danell](https://www.imdb.com/name/nm3168721/).
 
 ---
 
-A Kartaverse community project. (C) Copyright Andrew Hazelden 2014-2024. All rights reserved. 
+The XR LED Panel Database is a Kartaverse community project. (C) Copyright Andrew Hazelden 2014-2024. All rights reserved. All content is available under an LGPL/GPGL license.
