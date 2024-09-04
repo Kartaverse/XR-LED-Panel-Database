@@ -23,6 +23,10 @@
     - [Obsidian](data/ROE-Obsidian)
     - [Ruby-C](data/ROE-Ruby-C)
     - [Ruby](data/ROE-Ruby)
+  - Yaham OptoElectronics
+    - [H3](data/Yaham-H3)
+    - [H7](data/Yaham-H7)
+    - [Yaboard](data/Yaham-Yaboard)
 - **LED Processors**
   - Brompton
     - [Tessera S4](https://www.bromptontech.com/product/s4/)
