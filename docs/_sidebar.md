@@ -23,6 +23,8 @@
     - [Obsidian](data/ROE-Obsidian)
     - [Ruby-C](data/ROE-Ruby-C)
     - [Ruby](data/ROE-Ruby)
+  - Sony
+    - [Verona Crystal](data/Sony-Verona)
   - Yaham OptoElectronics
     - [H3](data/Yaham-H3)
     - [H7](data/Yaham-H7)
