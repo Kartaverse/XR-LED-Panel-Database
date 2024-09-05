@@ -11,4 +11,7 @@ This XR database project was inspired by the EmberlightVFX [Camera Sensor Databa
 
 ---
 
+All trademarks, logos, and brand names are the property of their respective owners.
+
 The XR LED Panel Database is a Kartaverse community project. (C) Copyright Andrew Hazelden 2014-2024. All rights reserved. All content is available under an LGPL/GPL license.
+
