@@ -68,8 +68,10 @@
   - [Vicon MoCap](https://www.vicon.com)
   - [Xsens MoCap](https://www.xsens.com/)
 - **Laser Projectors**
-  - [Barco](https://www.barco.com/en)
-  - [Christie Digital](https://www.christiedigital.com/products/projectors/all-projectors/)
+  - Barco
+    - [XDX-4K40](data/BARCO-XDX-4K40)
+  - Christie Digital
+    - [CINELIFE-CP4455-RGB](data/CHRISTIE-CINELIFE-CP4455-RGB)
   - [Panasonic](https://connect.na.panasonic.ca/)
   - [Sony](https://www.sony.ca/en/projectors)
 - **Projector Lenses**
