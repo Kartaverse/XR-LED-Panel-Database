@@ -2,7 +2,7 @@
 
 > Links: [Barco XDX-4K40 Product Page](https://www.barco.com/en/product/xdx-4k40) | [Spec Sheet PDF Guide](https://assets.barco.com/m/6ed7ab822bfdc545/original/XDX-4K40-en-Spec-sheet.pdf) | [Projection Homepage](https://www.barco.com/en/products/projection)
 
-![Barco XDX-4K40 Photo](Barco-XDX-4K40.png)
+![Barco XDX-4K40 Photo](BARCO-XDX-4K40.png)
 
 ## Projector Specs
 
