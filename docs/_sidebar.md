@@ -72,7 +72,8 @@
     - [XDX-4K40](data/BARCO-XDX-4K40)
   - Christie Digital
     - [CINELIFE-CP4455-RGB](data/CHRISTIE-CINELIFE-CP4455-RGB)
-  - [Panasonic](https://connect.na.panasonic.ca/)
+  - Panasonic
+    - [PT-RQ50KU](data/PANASONIC-PT-RQ50KU)
   - [Sony](https://www.sony.ca/en/projectors)
 - **Projector Lenses**
   - Ultra Short Throw Lenses
