@@ -41,6 +41,21 @@
 - **Receiver Cards**
   - Brompton
     - [Tessera G1](https://www.bromptontech.com/product/receiver-cards/)
+- **Laser Projectors**
+  - Barco
+    - [UDX](data/BARCO-UDX)
+    - [XDX](data/BARCO-XDX)
+  - Christie Digital
+    - [CINELIFE-CP4455-RGB](data/CHRISTIE-CINELIFE-CP4455-RGB)
+  - Panasonic
+    - [PT-RQ50KU](data/PANASONIC-PT-RQ50KU)
+  - [Sony](https://www.sony.ca/en/projectors)
+  - Projector Lenses
+    - Ultra Short Throw Lenses
+    - Wide Angle Lenses
+- **Lens Metadata**
+  - [Cooke Optics /i Technology](https://cookeoptics.com/i-technology/)
+  - [Ambient Lockit+](https://ambient.de/en/products/acn-lp-lockit-metadateninterface)
 - **Practical Lights**
   - [ARRI](https://www.arri.com/en/lighting/led)
   - [Kinoflo Mimik](https://kinoflo.com/mimik/)
@@ -67,20 +82,6 @@
   - [Move.ai MoCap](https://www.move.ai)
   - [Vicon MoCap](https://www.vicon.com)
   - [Xsens MoCap](https://www.xsens.com/)
-- **Laser Projectors**
-  - Barco
-    - [XDX-4K40](data/BARCO-XDX-4K40)
-  - Christie Digital
-    - [CINELIFE-CP4455-RGB](data/CHRISTIE-CINELIFE-CP4455-RGB)
-  - Panasonic
-    - [PT-RQ50KU](data/PANASONIC-PT-RQ50KU)
-  - [Sony](https://www.sony.ca/en/projectors)
-- **Projector Lenses**
-  - Ultra Short Throw Lenses
-  - Wide Angle Lenses
-- **Lens Metadata**
-  - [Cooke Optics /i Technology](https://cookeoptics.com/i-technology/)
-  - [Ambient Lockit+](https://ambient.de/en/products/acn-lp-lockit-metadateninterface)
 - **Links**
   - [Kartaverse](https://github.com/kartaverse)
   - [Medium Blog](https://medium.com/@andrewhazelden)
