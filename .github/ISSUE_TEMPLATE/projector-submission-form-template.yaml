@@ -1,7 +1,7 @@
 name: Video Projector Submission
 description: Fill out this form to create a new video projetor entry and pull request.
 title: "[New Video Projector]: "
-labels: [submission]
+labels: [projector_submission]
 
 body:
   - type: markdown
@@ -14,8 +14,7 @@ body:
     id: product_page
     attributes:
       label: Product Page
-      description: Please enter the URL of the product page or specification sheet
-        This is just to keep track on where the data comes from.
+      description: Please enter the URL of the product page or specification sheet. This is just to keep track on where the data comes from.
       placeholder: |
         https://www.barco.com/en/product/udx-4k32
     validations:

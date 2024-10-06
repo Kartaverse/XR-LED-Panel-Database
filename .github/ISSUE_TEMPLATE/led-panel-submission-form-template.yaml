@@ -1,7 +1,7 @@
 name: LED Panel Submission
 description: Fill out this form to create a new LED panel entry and pull request.
 title: "[New LED Panel]: "
-labels: [submission]
+labels: [led_panel_submission]
 
 body:
   - type: markdown
@@ -14,8 +14,7 @@ body:
     id: product_page
     attributes:
       label: Product Page
-      description: Please enter the URL of the product page or specification sheet
-        This is just to keep track on where the data comes from.
+      description: Please enter the URL of the product page or specification sheet. This is just to keep track on where the data comes from.
       placeholder: |
         https://www.roevisual.com/en/products/ruby
     validations:
