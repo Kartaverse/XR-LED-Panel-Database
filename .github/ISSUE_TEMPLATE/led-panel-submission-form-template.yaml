@@ -1,0 +1,125 @@
+name: LED Panel Submission
+description: Fill out this form to create a new LED panel entry and pull request.
+title: "[New LED Panel]: "
+labels: [submission]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to make the database better!
+        After creating this issue a PR will automatically be created with all files generated.
+
+  - type: textarea
+    id: product_page
+    attributes:
+      label: Product Page
+      description: Please enter the URL of the product page or specification sheet
+        This is just to keep track on where the data comes from.
+      placeholder: |
+        https://www.roevisual.com/en/products/ruby
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: "# Panel information"
+
+  - type: dropdown
+    id: vendor
+    attributes:
+      label: Vendor
+      description: Select the LED panel manufacturer
+      options:
+        - AOTO
+        - ROE Visual
+        - Sony
+        - Yaham
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: other_vendor
+    attributes:
+      label: Other Vendor
+      description: If you selected "Other" above, please specify the vendor here.
+      placeholder: Enter the other vendor name
+
+  - type: input
+    id: product
+    attributes:
+      label: Product
+      description: What's the LED panel product name?
+      placeholder: ex. Ruby
+    validations:
+      required: true
+
+  - type: textarea
+    id: info
+    attributes:
+      label: Additional Information
+      description: Enter any kind of good-to-have information
+
+  #### Specs 1
+  - type: markdown
+    attributes:
+      value: "## Specs"
+
+  - type: input
+    id: model
+    attributes:
+      label: Model
+      description: What's the LED panel model name?
+      placeholder: "RB1.2"
+    validations:
+      required: true
+
+  - type: input
+    id: cabinet_resolution
+    attributes:
+      label: Cabinet Resolution (px)
+      description: (Optional) What's the LED panel's resolution?
+      placeholder: 320x320 px
+
+  - type: input
+    id: pixel_pitch
+    attributes:
+      label: Pixel Pitch (mm)
+      description: (Optional) What is the distance between the individual LEDs on the panel?
+      placeholder: "1.25 mm"
+
+  - type: input
+    id: cabinet_size
+    attributes:
+      label: Cabinet Size (mm)
+      description: (Optional) What is the overall dimensions of the LED panel?
+      placeholder: "500 mm x 500 mm x 73 mm"
+
+  - type: input
+    id: refresh_rate
+    attributes:
+      label: Refresh Rate (Hz)
+      description: How many times per second does the display refresh?
+      placeholder: "7680 Hz"
+
+  - type: input
+    id: brightness
+    attributes:
+      label: brightness (nits)
+      description: (Optional) What's the brightness of the display?
+      placeholder: "800 nits"
+
+  - type: input
+    id: average_power
+    attributes:
+      label: Average Power
+      description: (Optional) What is the total mass of the LED panel when active?
+      placeholder: "105 Watts"
+
+  - type: input
+    id: mass
+    attributes:
+      label: Mass (kg)
+      description: (Optional) What is the total mass for the LED panel when fully configured and operational?
+      placeholder: "10.1 kg"
