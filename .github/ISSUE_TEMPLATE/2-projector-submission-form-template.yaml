@@ -6,9 +6,7 @@ labels: [projector_submission]
 body:
   - type: markdown
     attributes:
-      value: |
-        Thanks for taking the time to make the database better!
-        After creating this issue a PR will automatically be created with all files generated.
+      value: "Thanks for taking the time to make the database better! After creating this issue a PR will automatically be created with all files generated."
 
   - type: textarea
     id: product_page
