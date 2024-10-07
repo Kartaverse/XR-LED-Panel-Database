@@ -11,7 +11,7 @@ body:
   - type: textarea
     id: product_page
     attributes:
-      label: Product Page
+      label: "Product Page"
       description: "Please enter the URL of the product page or specification sheet. This is just to keep track on where the data comes from."
       placeholder: "https://www.barco.com/en/product/udx-4k32"
     validations:
@@ -24,7 +24,7 @@ body:
   - type: dropdown
     id: vendor
     attributes:
-      label: Vendor
+      label: "Vendor"
       description: "Select the proejctor manufacturer"
       options:
         - Barco
@@ -38,14 +38,14 @@ body:
   - type: input
     id: other_vendor
     attributes:
-      label: Other Vendor
+      label: "Other Vendor"
       description: "If you selected 'Other' above, please specify the vendor here."
       placeholder: "Enter the other vendor name"
 
   - type: input
     id: product
     attributes:
-      label: Product
+      label: "Product"
       description: "What's the product name?"
       placeholder: "ex. DLP Laser Projector"
     validations:
@@ -54,7 +54,7 @@ body:
   - type: textarea
     id: info
     attributes:
-      label: Additional Information
+      label: "Additional Information"
       description: "Enter any kind of good-to-have information"
 
   #### Specs 1
@@ -65,7 +65,7 @@ body:
   - type: input
     id: model
     attributes:
-      label: Model
+      label: "Model"
       description: "What's the model name?"
       placeholder: "UDX-U45LC"
     validations:
@@ -74,62 +74,62 @@ body:
   - type: input
     id: resolution
     attributes:
-      label: Projector Resolution (px)
+      label: "Projector Resolution (px)"
       description: "(Optional) What's the projector's native output resolution?"
       placeholder: "3840 x 2400 px"
 
   - type: input
     id: technology
     attributes:
-      label: Technology
+      label: "Technology"
       description: "(Optional) What type of projection system is used?"
       placeholder: "3-Chip DLP RGB Laser"
 
   - type: input
-    id: stereo3d
+    id: stereoscopic
     attributes:
-      label: Stereo 3D
+      label: "Stereo 3D"
       description: "(Optional) Is stereoscopic 3D playback supported?"
       placeholder: Yes
 
   - type: input
     id: cabinet_size
     attributes:
-      label: Cabinet Size (mm)
+      label: "Cabinet Size (mm)"
       description: "(Optional) What is the overall dimensions of the projector?"
       placeholder: "500 mm x 500 mm x 73 mm"
 
   - type: input
     id: noise_level
     attributes:
-      label: Noise Level
+      label: "Noise Level"
       description: "(Optional) What's the noise level of the projector when in use?"
       placeholder: "50 dB (A)"
 
   - type: input
     id: brightness
     attributes:
-      label: brightness (nits)
+      label: "Brightness (nits)"
       description: "(Optional) What's the brightness of the projector?"
       placeholder: "45000 Lumens"
 
   - type: input
     id: contrast_ratio
     attributes:
-      label: Contrast Ratio
+      label: "Contrast Ratio"
       description: "(Optional) What's the native contrast ratio of the projector?"
       placeholder: "800 nits"
 
   - type: input
     id: average_power
     attributes:
-      label: Average Power
+      label: "Average Power"
       description: "(Optional) What is the total mass of the projector when active?"
       placeholder: "3.75 KW @ 200-240V"
 
   - type: input
     id: mass
     attributes:
-      label: Mass (kg)
+      label: "Mass (kg)"
       description: "(Optional) What is the total mass for the projector when fully configured and operational?"
       placeholder: "92 kg"
