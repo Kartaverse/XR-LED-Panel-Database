@@ -92,7 +92,7 @@ body:
     id: cabinet_size
     attributes:
       label: Cabinet Size (mm)
-      description: (Optional) What is the overall dimensions of the LED panel?
+      description: (Optional) What is the overall dimensions (Length x Width x Thickness) of the LED panel?
       placeholder: "500 mm x 500 mm x 73 mm"
 
   - type: input
@@ -105,7 +105,7 @@ body:
   - type: input
     id: brightness
     attributes:
-      label: brightness (nits)
+      label: Brightness (nits)
       description: (Optional) What's the brightness of the display?
       placeholder: "800 nits"
 
