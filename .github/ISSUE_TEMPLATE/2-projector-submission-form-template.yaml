@@ -26,7 +26,7 @@ body:
     attributes:
       label: "Vendor"
       description: "Select the proejctor manufacturer"
-      options: |
+      options:
         - Barco
         - Christie
         - Panasonic
