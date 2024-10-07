@@ -26,7 +26,7 @@ body:
     attributes:
       label: "Vendor"
       description: "Select the proejctor manufacturer"
-      options:
+      options: |
         - Barco
         - Christie
         - Panasonic
@@ -57,7 +57,6 @@ body:
       label: "Additional Information"
       description: "Enter any kind of good-to-have information"
 
-  #### Specs 1
   - type: markdown
     attributes:
       value: "## Specs"
