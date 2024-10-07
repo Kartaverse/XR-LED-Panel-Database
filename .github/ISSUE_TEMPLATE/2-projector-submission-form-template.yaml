@@ -15,8 +15,7 @@ body:
     attributes:
       label: Product Page
       description: Please enter the URL of the product page or specification sheet. This is just to keep track on where the data comes from.
-      placeholder: |
-        https://www.barco.com/en/product/udx-4k32
+      placeholder: https://www.barco.com/en/product/udx-4k32
     validations:
       required: true
 
