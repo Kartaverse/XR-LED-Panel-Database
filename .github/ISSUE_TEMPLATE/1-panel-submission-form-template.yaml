@@ -11,7 +11,7 @@ body:
   - type: textarea
     id: product_page
     attributes:
-      label: Product Page
+      label: "Product Page"
       description: "Please enter the URL of the product page or specification sheet. This is just to keep track on where the data comes from."
       placeholder: "https://www.roevisual.com/en/products/ruby"
     validations:
@@ -24,7 +24,7 @@ body:
   - type: dropdown
     id: vendor
     attributes:
-      label: Vendor
+      label: "Vendor"
       description: "Select the LED panel manufacturer"
       options:
         - AOTO
@@ -38,14 +38,14 @@ body:
   - type: input
     id: other_vendor
     attributes:
-      label: Other Vendor
+      label: "Other Vendor"
       description: "If you selected 'Other' above, please specify the vendor here."
       placeholder: "Enter the other vendor name"
 
   - type: input
     id: product
     attributes:
-      label: Product
+      label: "Product"
       description: "What's the LED panel product name?"
       placeholder: "ex. Ruby"
     validations:
@@ -54,7 +54,7 @@ body:
   - type: textarea
     id: info
     attributes:
-      label: Additional Information
+      label: "Additional Information"
       description: "Enter any kind of good-to-have information"
 
   #### Specs 1
@@ -65,7 +65,7 @@ body:
   - type: input
     id: model
     attributes:
-      label: Model
+      label: "Model"
       description: "What's the LED panel model name?"
       placeholder: "RB1.2"
     validations:
@@ -74,48 +74,48 @@ body:
   - type: input
     id: cabinet_resolution
     attributes:
-      label: Cabinet Resolution (px)
+      label: "Cabinet Resolution (px)"
       description: "(Optional) What's the LED panel's resolution?"
       placeholder: "320x320 px"
 
   - type: input
     id: pixel_pitch
     attributes:
-      label: Pixel Pitch (mm)
+      label: "Pixel Pitch (mm)"
       description: "(Optional) What is the distance between the individual LEDs on the panel?"
       placeholder: "1.25 mm"
 
   - type: input
     id: cabinet_size
     attributes:
-      label: Cabinet Size (mm)
+      label: "Cabinet Size (mm)"
       description: "(Optional) What is the overall dimensions (Length x Width x Thickness) of the LED panel?"
       placeholder: "500 mm x 500 mm x 73 mm"
 
   - type: input
     id: refresh_rate
     attributes:
-      label: Refresh Rate (Hz)
+      label: "Refresh Rate (Hz)"
       description: "How many times per second does the display refresh?"
       placeholder: "7680 Hz"
 
   - type: input
     id: brightness
     attributes:
-      label: Brightness (nits)
+      label: "Brightness (nits)"
       description: "(Optional) What's the brightness of the display?"
       placeholder: "800 nits"
 
   - type: input
     id: average_power
     attributes:
-      label: Average Power
+      label: "Average Power"
       description: "(Optional) What is the total mass of the LED panel when active?"
       placeholder: "105 Watts"
 
   - type: input
     id: mass
     attributes:
-      label: Mass (kg)
+      label: "Mass (kg)"
       description: "(Optional) What is the total mass for the LED panel when fully configured and operational?"
       placeholder: "10.1 kg"
