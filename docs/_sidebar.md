@@ -1,6 +1,7 @@
 <!-- docs/_sidebar.md -->
 - [Home](/)
 - **LED Panels**
+  - Absen
   - AOTO
     - [AD](data/AOTO-AD)
     - [AE](data/AOTO-AE)
