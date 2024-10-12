@@ -103,3 +103,10 @@ body:
       label: "Noise Level"
       description: "(Optional) What's the noise level of the projector when in use?"
       placeholder: "50 dB (A)"
+
+  - type: input
+    id: "brightness"
+    attributes:
+      label: "Brightness (nits)"
+      description: "(Optional) What's the brightness of the projector?"
+      placeholder: "45000 Lumens"
