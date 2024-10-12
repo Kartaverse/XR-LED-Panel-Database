@@ -41,3 +41,12 @@ body:
       label: "Other Vendor"
       description: "If you selected 'Other' above, please specify the vendor here."
       placeholder: "Enter the other vendor name"
+
+  - type: input
+    id: product
+    attributes:
+      label: "Product"
+      description: "What's the product name?"
+      placeholder: "ex. DLP Laser Projector"
+    validations:
+      required: true
