@@ -76,3 +76,10 @@ body:
       label: "Projector Resolution (px)"
       description: "(Optional) What's the projector's native output resolution?"
       placeholder: "3840 x 2400 px"
+
+  - type: input
+    id: technology
+    attributes:
+      label: "Technology"
+      description: "(Optional) What type of projection system is used?"
+      placeholder: "3-Chip DLP RGB Laser"
