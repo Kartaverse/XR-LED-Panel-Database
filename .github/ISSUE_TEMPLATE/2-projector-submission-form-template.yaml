@@ -50,3 +50,9 @@ body:
       placeholder: "ex. DLP Laser Projector"
     validations:
       required: true
+
+  - type: textarea
+    id: info
+    attributes:
+      label: "Additional Information"
+      description: "Enter any kind of good-to-have information"
