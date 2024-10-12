@@ -16,3 +16,7 @@ body:
       placeholder: "https://www.barco.com/en/product/udx-4k32"
     validations:
       required: true
+
+  - type: markdown
+    attributes:
+      value: "# Projector information"
