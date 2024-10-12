@@ -87,6 +87,6 @@ body:
   - type: input
     id: stereoscopic
     attributes:
-      label: "Stereo3D"
+      label: "Stereo"
       description: "(Optional) Is stereoscopic 3D playback supported?"
       placeholder: ""
