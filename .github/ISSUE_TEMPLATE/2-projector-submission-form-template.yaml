@@ -83,3 +83,10 @@ body:
       label: "Technology"
       description: "(Optional) What type of projection system is used?"
       placeholder: "3-Chip DLP RGB Laser"
+
+  - type: input
+    id: stereoscopic
+    attributes:
+      label: "Stereo 3D"
+      description: "(Optional) Is stereoscopic 3D playback supported?"
+      placeholder: Yes
