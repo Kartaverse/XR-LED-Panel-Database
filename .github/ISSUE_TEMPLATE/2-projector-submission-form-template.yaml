@@ -90,3 +90,45 @@ body:
       label: "Stereo"
       description: "(Optional) Is stereoscopic 3D playback supported?"
       placeholder: ""
+
+  - type: input
+    id: cabinet_size
+    attributes:
+      label: "Cabinet Size (mm)"
+      description: "(Optional) What is the overall dimensions of the projector?"
+      placeholder: "500 mm x 500 mm x 73 mm"
+
+  - type: input
+    id: noise_level
+    attributes:
+      label: "Noise Level"
+      description: "(Optional) What's the noise level of the projector when in use?"
+      placeholder: "50 dB (A)"
+
+  - type: input
+    id: brightness
+    attributes:
+      label: "Brightness (nits)"
+      description: "(Optional) What's the brightness of the projector?"
+      placeholder: "45000 Lumens"
+
+  - type: input
+    id: contrast_ratio
+    attributes:
+      label: "Contrast Ratio"
+      description: "(Optional) What's the native contrast ratio of the projector?"
+      placeholder: "800 nits"
+
+  - type: input
+    id: average_power
+    attributes:
+      label: "Average Power"
+      description: "(Optional) What is the total mass of the projector when active?"
+      placeholder: "3.75 KW @ 200-240V"
+
+  - type: input
+    id: mass
+    attributes:
+      label: "Mass (kg)"
+      description: "(Optional) What is the total mass for the projector when fully configured and operational?"
+      placeholder: "92 kg"
