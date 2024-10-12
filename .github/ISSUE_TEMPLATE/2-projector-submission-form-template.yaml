@@ -110,3 +110,10 @@ body:
       label: "Brightness (nits)"
       description: "(Optional) What's the brightness of the projector?"
       placeholder: "45000 Lumens"
+
+  - type: input
+    id: "contrast_ratio"
+    attributes:
+      label: "Contrast Ratio"
+      description: "(Optional) What's the native contrast ratio of the projector?"
+      placeholder: "800 nits"
