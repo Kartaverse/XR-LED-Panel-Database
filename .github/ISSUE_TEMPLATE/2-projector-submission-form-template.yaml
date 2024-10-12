@@ -56,3 +56,7 @@ body:
     attributes:
       label: "Additional Information"
       description: "Enter any kind of good-to-have information"
+
+  - type: markdown
+    attributes:
+      value: "## Specs"
