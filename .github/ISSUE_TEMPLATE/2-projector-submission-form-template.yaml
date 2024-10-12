@@ -124,3 +124,10 @@ body:
       label: "Average Power"
       description: "(Optional) What is the total mass of the projector when active?"
       placeholder: "3.75 KW @ 200-240V"
+
+  - type: input
+    id: "mass"
+    attributes:
+      label: "Mass (kg)"
+      description: "(Optional) What is the total mass for the projector when fully configured and operational?"
+      placeholder: "92 kg"
