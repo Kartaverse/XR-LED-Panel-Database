@@ -69,3 +69,10 @@ body:
       placeholder: "UDX-U45LC"
     validations:
       required: true
+
+  - type: input
+    id: resolution
+    attributes:
+      label: "Projector Resolution (px)"
+      description: "(Optional) What's the projector's native output resolution?"
+      placeholder: "3840 x 2400 px"
