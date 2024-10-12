@@ -60,3 +60,12 @@ body:
   - type: markdown
     attributes:
       value: "## Specs"
+
+  - type: input
+    id: model
+    attributes:
+      label: "Model"
+      description: "What's the model name?"
+      placeholder: "UDX-U45LC"
+    validations:
+      required: true
