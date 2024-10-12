@@ -117,3 +117,10 @@ body:
       label: "Contrast Ratio"
       description: "(Optional) What's the native contrast ratio of the projector?"
       placeholder: "800 nits"
+
+  - type: input
+    id: "average_power"
+    attributes:
+      label: "Average Power"
+      description: "(Optional) What is the total mass of the projector when active?"
+      placeholder: "3.75 KW @ 200-240V"
