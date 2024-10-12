@@ -89,6 +89,7 @@ body:
     attributes:
       label: "Stereo"
       description: "(Optional) Is stereoscopic 3D playback supported?"
+      placeholder: "Yes/No"
 
   - type: input
     id: "cabinet_size"
