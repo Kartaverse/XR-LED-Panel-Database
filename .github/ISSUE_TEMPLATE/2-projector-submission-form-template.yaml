@@ -34,3 +34,10 @@ body:
         - Other
     validations:
       required: true
+
+  - type: input
+    id: other_vendor
+    attributes:
+      label: "Other Vendor"
+      description: "If you selected 'Other' above, please specify the vendor here."
+      placeholder: "Enter the other vendor name"
