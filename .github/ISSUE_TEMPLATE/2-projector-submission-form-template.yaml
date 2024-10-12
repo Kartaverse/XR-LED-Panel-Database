@@ -20,3 +20,17 @@ body:
   - type: markdown
     attributes:
       value: "# Projector information"
+
+  - type: dropdown
+    id: vendor
+    attributes:
+      label: "Vendor"
+      description: "Select the proejctor manufacturer"
+      options:
+        - Barco
+        - Christie
+        - Panasonic
+        - Sony
+        - Other
+    validations:
+      required: true
