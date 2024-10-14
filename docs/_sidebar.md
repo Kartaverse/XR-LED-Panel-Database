@@ -2,6 +2,8 @@
 - [Home](/)
 - **LED Panels**
   - Absen
+    - [MR](data/ABSEN-MR)
+    - [PR](data/ABSEN-PR)
   - AOTO
     - [AD](data/AOTO-AD)
     - [AE](data/AOTO-AE)
@@ -26,6 +28,8 @@
     - [Obsidian](data/ROE-Obsidian)
     - [Ruby-C](data/ROE-Ruby-C)
     - [Ruby](data/ROE-Ruby)
+  - SFERiX
+    - [SFERiX LED](data/SFERIX-LED)
   - Sony
     - [Verona Crystal](data/Sony-Verona)
   - Yaham OptoElectronics
