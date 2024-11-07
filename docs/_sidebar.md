@@ -16,6 +16,21 @@
     - [RM](data/AOTO-RM)
     - [SW](data/AOTO-SW)
     - [U](data/AOTO-U)
+  - INFiLED
+    - [HR](https://www.infiled.com/series/hr-series/)
+    - [MV](https://www.infiled.com/series/mv-series/)
+    - [MVmk2](https://www.infiled.com/series/mvmk2-series/)
+    - [MV Edge](https://www.infiled.com/series/mv-edge-series/)
+    - [MV Mesh](https://www.infiled.com/series/mv-mesh-series/)
+    - [OREZ](https://www.infiled.com/series/orez-series/)
+    - [SF](https://www.infiled.com/series/sf-series/)
+    - [SP](https://www.infiled.com/series/sp-series/)
+    - [Studio](https://www.infiled.com/series/studio-series/)
+    - [Titan-X](https://www.infiled.com/series/titan-x-series/)
+    - [WP Wrap](https://www.infiled.com/series/wp-wrap-series/)
+    - [WP](https://www.infiled.com/series/wp-series/)
+    - [WT](https://www.infiled.com/series/wt-series/)
+    - [Xmk2](https://www.infiled.com/series/xmk2-series/)
   - Planar
     - [CarbonLight CLI](data/Planar-CarbonLight-CLI)
   - Roe Visual
